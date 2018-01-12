@@ -1,4 +1,6 @@
 # Kanto Music Search Engine
+![alt text](https://raw.githubusercontent.com/hrishimukherjee/kanto-music-search-engine/master/graphic.jpg)
+
 **Authors:** Hrishi Mukherjee, Yonathan Kidanemariam
 
 A google style search engine engineered for music. Query the custom database of ~7000 songs by lyrics. 
